@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 👋 About Me:
 
 Hi, I'm Vishal — a Computer Science Engineering student at Shreeyash College of Engineering and Technology.
@@ -27,7 +25,9 @@ Hi, I'm Vishal — a Computer Science Engineering student at Shreeyash College o
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=600&lines=Java;Python;Pandas;NumPy;HTML;CSS;Git;GitHub" alt="Tech Stack Typing SVG" />
+</p>
 
 
 <p align="center">
